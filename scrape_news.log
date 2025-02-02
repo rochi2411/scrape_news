@@ -372,3 +372,757 @@
 2025-02-02 12:01:02,056 - INFO - Skipping duplicate: What did the Budget say about ‘Make in India’?
 2025-02-02 12:01:02,056 - INFO - Orchestration completed.
 
+2025-02-03 00:17:17,790 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:17:17,791 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:17:18,403 - INFO - Finding 'Top stories' section...
+2025-02-03 00:17:18,407 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:17:18,407 - INFO - Scraping article headlines...
+2025-02-03 00:17:18,407 - INFO - Folder already exists
+2025-02-03 00:17:18,407 - INFO - Connecting to the database...
+2025-02-03 00:17:18,423 - INFO - Connection is complete...
+2025-02-03 00:17:19,490 - INFO - Saving new articles to database...
+2025-02-03 00:17:19,730 - INFO - Saving new articles to database...
+2025-02-03 00:17:20,203 - INFO - Saving new articles to database...
+2025-02-03 00:17:20,692 - INFO - Saving new articles to database...
+2025-02-03 00:17:21,180 - INFO - Saving new articles to database...
+2025-02-03 00:17:21,653 - INFO - Saving new articles to database...
+2025-02-03 00:17:22,140 - INFO - Saving new articles to database...
+2025-02-03 00:17:22,672 - INFO - Saving new articles to database...
+2025-02-03 00:17:23,062 - INFO - Saving new articles to database...
+2025-02-03 00:17:23,573 - INFO - Saving new articles to database...
+2025-02-03 00:17:24,116 - INFO - Saving new articles to database...
+2025-02-03 00:17:24,682 - INFO - Saving new articles to database...
+2025-02-03 00:17:24,953 - INFO - Saving new articles to database...
+2025-02-03 00:17:25,478 - INFO - Saving new articles to database...
+2025-02-03 00:17:27,447 - INFO - Saving new articles to database...
+2025-02-03 00:17:27,857 - INFO - Orchestration completed.
+
+2025-02-03 00:29:41,800 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:29:41,801 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:29:42,343 - INFO - Finding 'Top stories' section...
+2025-02-03 00:29:42,346 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:29:42,346 - INFO - Scraping article headlines...
+2025-02-03 00:29:42,346 - INFO - Folder already exists
+2025-02-03 00:29:42,346 - INFO - Connecting to the database...
+2025-02-03 00:29:42,358 - INFO - Connection is complete...
+2025-02-03 00:29:43,403 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:29:43,415 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:29:43,427 - INFO - Skipping duplicate: Arvind Kejriwal writes to EC over ‘assault on AAP volunteers', seeks action against BJP
+2025-02-03 00:29:43,444 - INFO - Skipping duplicate: ‘WagonR mein aaye, khambe pe chadh gaye…’: Rahul Gandhi mocks Arvind Kejriwal over ‘Sheesh Mahal’ in Delhi
+2025-02-03 00:29:43,465 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:29:43,486 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:29:43,506 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:29:43,527 - INFO - Saving new articles to database...
+2025-02-03 00:29:43,705 - INFO - Skipping duplicate: Maha Kumbh: U.P. directs medical facilities of Pragayraj division to remain on high alert
+2025-02-03 00:29:43,729 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:29:43,751 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:29:43,772 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:29:43,793 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:29:43,814 - INFO - Skipping duplicate: Focus on Bihar: Here are the schemes announced for the state in the Budget
+2025-02-03 00:29:43,836 - INFO - Saving new articles to database...
+2025-02-03 00:29:44,022 - INFO - Skipping duplicate: ‘I failed, I will resign’: Faizabad MP breaks into tears over Dalit woman's ‘murder’ in Ayodhya
+2025-02-03 00:29:44,023 - INFO - Orchestration completed.
+
+2025-02-03 00:34:03,684 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:34:03,685 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:34:04,224 - INFO - Finding 'Top stories' section...
+2025-02-03 00:34:04,227 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:34:04,227 - INFO - Scraping article headlines...
+2025-02-03 00:34:04,227 - INFO - Folder already exists
+2025-02-03 00:34:04,227 - INFO - Connecting to the database...
+2025-02-03 00:34:04,238 - INFO - Connection is complete...
+2025-02-03 00:34:05,349 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:34:05,360 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:34:05,371 - INFO - Skipping duplicate: Arvind Kejriwal writes to EC over ‘assault on AAP volunteers', seeks action against BJP
+2025-02-03 00:34:05,383 - INFO - Skipping duplicate: ‘WagonR mein aaye, khambe pe chadh gaye…’: Rahul Gandhi mocks Arvind Kejriwal over ‘Sheesh Mahal’ in Delhi
+2025-02-03 00:34:05,394 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:34:05,407 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:34:05,419 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:34:05,432 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:34:05,450 - INFO - Skipping duplicate: Maha Kumbh: U.P. directs medical facilities of Pragayraj division to remain on high alert
+2025-02-03 00:34:05,471 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:34:05,492 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:34:05,514 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:34:05,514 - INFO - Orchestration completed.
+
+2025-02-03 00:36:02,529 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:36:02,530 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:36:03,165 - INFO - Finding 'Top stories' section...
+2025-02-03 00:36:03,169 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:36:03,169 - INFO - Scraping article headlines...
+2025-02-03 00:36:03,169 - INFO - Folder already exists
+2025-02-03 00:36:03,169 - INFO - Connecting to the database...
+2025-02-03 00:36:03,183 - INFO - Connection is complete...
+2025-02-03 00:36:04,245 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:36:04,257 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:36:04,269 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:36:04,282 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:36:04,294 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:36:04,305 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:36:04,316 - INFO - Saving new articles to database...
+2025-02-03 00:36:04,742 - INFO - Saving new articles to database...
+2025-02-03 00:36:05,414 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:36:05,433 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:36:05,453 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:36:05,469 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:36:05,470 - INFO - Orchestration completed.
+
+2025-02-03 00:38:02,572 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:38:02,573 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:38:03,070 - INFO - Finding 'Top stories' section...
+2025-02-03 00:38:03,073 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:38:03,073 - INFO - Scraping article headlines...
+2025-02-03 00:38:03,073 - INFO - Folder already exists
+2025-02-03 00:38:03,073 - INFO - Connecting to the database...
+2025-02-03 00:38:03,086 - INFO - Connection is complete...
+2025-02-03 00:38:04,242 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:38:04,259 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:38:04,275 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:38:04,288 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:38:04,301 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:38:04,316 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:38:04,338 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:38:04,363 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:38:04,387 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:38:04,409 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:38:04,431 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:38:04,453 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:38:04,474 - INFO - Skipping duplicate: Focus on Bihar: Here are the schemes announced for the state in the Budget
+2025-02-03 00:38:04,495 - INFO - Skipping duplicate: Health sector gets shot in the arm with `99,858 crore allocation
+2025-02-03 00:38:04,517 - INFO - Saving new articles to database...
+2025-02-03 00:38:04,923 - INFO - Orchestration completed.
+
+2025-02-03 00:40:02,995 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:40:02,996 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:40:03,557 - INFO - Finding 'Top stories' section...
+2025-02-03 00:40:03,567 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:40:03,567 - INFO - Scraping article headlines...
+2025-02-03 00:40:03,567 - INFO - Folder already exists
+2025-02-03 00:40:03,568 - INFO - Connecting to the database...
+2025-02-03 00:40:03,588 - INFO - Connection is complete...
+2025-02-03 00:40:04,646 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:40:04,664 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:40:04,678 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:40:04,696 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:40:04,724 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:40:04,739 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:40:04,755 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:40:04,770 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:40:04,788 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:40:04,812 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:40:04,829 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:40:04,861 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:40:04,890 - INFO - Skipping duplicate: Focus on Bihar: Here are the schemes announced for the state in the Budget
+2025-02-03 00:40:04,923 - INFO - Skipping duplicate: Health sector gets shot in the arm with `99,858 crore allocation
+2025-02-03 00:40:04,952 - INFO - Skipping duplicate: Relief for house owners, can claim nil tax on two self-occupied properties now, without conditions
+2025-02-03 00:40:04,953 - INFO - Orchestration completed.
+
+2025-02-03 00:41:02,025 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:41:02,026 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:41:02,707 - INFO - Finding 'Top stories' section...
+2025-02-03 00:41:02,711 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:41:02,711 - INFO - Scraping article headlines...
+2025-02-03 00:41:02,711 - INFO - Folder already exists
+2025-02-03 00:41:02,711 - INFO - Connecting to the database...
+2025-02-03 00:41:02,722 - INFO - Connection is complete...
+2025-02-03 00:41:03,974 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:41:03,986 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:41:03,998 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:41:04,010 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:41:04,021 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:41:04,036 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:41:04,057 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:41:04,079 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:41:04,100 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:41:04,120 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:41:04,140 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:41:04,162 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:41:04,183 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:41:04,204 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:41:04,204 - INFO - Orchestration completed.
+
+2025-02-03 00:42:02,191 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:42:02,191 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:42:02,776 - INFO - Finding 'Top stories' section...
+2025-02-03 00:42:02,779 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:42:02,779 - INFO - Scraping article headlines...
+2025-02-03 00:42:02,779 - INFO - Folder already exists
+2025-02-03 00:42:02,779 - INFO - Connecting to the database...
+2025-02-03 00:42:02,791 - INFO - Connection is complete...
+2025-02-03 00:42:03,777 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:42:03,789 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:42:03,800 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:42:03,812 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:42:03,824 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:42:03,835 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:42:03,846 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:42:03,859 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:42:03,870 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:42:03,882 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:42:03,894 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:42:03,906 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:42:03,920 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:42:03,934 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:42:03,951 - INFO - Skipping duplicate: Relief for house owners, can claim nil tax on two self-occupied properties now, without conditions
+2025-02-03 00:42:03,952 - INFO - Orchestration completed.
+
+2025-02-03 00:45:03,065 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:45:03,066 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:45:03,623 - INFO - Finding 'Top stories' section...
+2025-02-03 00:45:03,626 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:45:03,626 - INFO - Scraping article headlines...
+2025-02-03 00:45:03,626 - INFO - Folder already exists
+2025-02-03 00:45:03,626 - INFO - Connecting to the database...
+2025-02-03 00:45:03,639 - INFO - Connection is complete...
+2025-02-03 00:45:04,627 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:45:04,639 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:45:04,651 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:45:04,666 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:45:04,688 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:45:04,710 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:45:04,736 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:45:04,759 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:45:04,776 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:45:04,790 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:45:04,807 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:45:04,828 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:45:04,846 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:45:04,872 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:45:04,892 - INFO - Skipping duplicate: Relief for house owners, can claim nil tax on two self-occupied properties now, without conditions
+2025-02-03 00:45:04,892 - INFO - Orchestration completed.
+
+2025-02-03 00:48:02,848 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:48:02,848 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:48:03,474 - INFO - Finding 'Top stories' section...
+2025-02-03 00:48:03,477 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:48:03,477 - INFO - Scraping article headlines...
+2025-02-03 00:48:03,477 - INFO - Folder already exists
+2025-02-03 00:48:03,477 - INFO - Connecting to the database...
+2025-02-03 00:48:03,491 - INFO - Connection is complete...
+2025-02-03 00:48:04,555 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:48:04,570 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:48:04,586 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:48:04,602 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:48:04,616 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:48:04,635 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:48:04,652 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:48:04,671 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:48:04,691 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:48:04,713 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:48:04,738 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:48:04,763 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:48:04,788 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:48:04,812 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:48:04,836 - INFO - Skipping duplicate: Relief for house owners, can claim nil tax on two self-occupied properties now, without conditions
+2025-02-03 00:48:04,861 - INFO - Saving new articles to database...
+2025-02-03 00:48:05,179 - INFO - Saving new articles to database...
+2025-02-03 00:48:05,405 - INFO - Skipping duplicate: ‘I failed, I will resign’: Faizabad MP breaks into tears over Dalit woman's ‘murder’ in Ayodhya
+2025-02-03 00:48:05,429 - INFO - Saving new articles to database...
+2025-02-03 00:48:05,665 - WARNING - Skipping article 'A record over Rs 6.81 lakh crore allocated in Union Budget 2025-26 for MoD, an increase of 9.53% from current Financial Year' due to invalid image URL: None
+2025-02-03 00:48:05,690 - INFO - Saving new articles to database...
+2025-02-03 00:48:06,273 - INFO - Skipping duplicate: Union Budget 2025: Railways allocation remains unchanged at ₹2.65 lakh crore, budget for customer amenities, investment in PSUs slashed
+2025-02-03 00:48:06,297 - INFO - Saving new articles to database...
+2025-02-03 00:48:06,790 - INFO - Saving new articles to database...
+2025-02-03 00:48:07,283 - INFO - Skipping duplicate: Vasant Panchami 2025: How this auspicious day influences your zodiac sign
+2025-02-03 00:48:07,307 - INFO - Saving new articles to database...
+2025-02-03 00:48:07,787 - INFO - Saving new articles to database...
+2025-02-03 00:48:08,307 - INFO - Saving new articles to database...
+2025-02-03 00:48:08,816 - INFO - Saving new articles to database...
+2025-02-03 00:48:10,040 - INFO - Saving new articles to database...
+2025-02-03 00:48:10,517 - INFO - Saving new articles to database...
+2025-02-03 00:48:10,943 - INFO - Saving new articles to database...
+2025-02-03 00:48:11,336 - INFO - Saving new articles to database...
+2025-02-03 00:48:11,757 - INFO - Saving new articles to database...
+2025-02-03 00:48:12,008 - INFO - Saving new articles to database...
+2025-02-03 00:48:12,465 - INFO - Saving new articles to database...
+2025-02-03 00:48:12,885 - INFO - Saving new articles to database...
+2025-02-03 00:48:13,292 - INFO - Saving new articles to database...
+2025-02-03 00:48:13,705 - INFO - Saving new articles to database...
+2025-02-03 00:48:13,920 - INFO - Saving new articles to database...
+2025-02-03 00:48:14,140 - INFO - Saving new articles to database...
+2025-02-03 00:48:14,525 - INFO - Saving new articles to database...
+2025-02-03 00:48:14,730 - INFO - Saving new articles to database...
+2025-02-03 00:48:15,123 - INFO - Saving new articles to database...
+2025-02-03 00:48:15,547 - INFO - Saving new articles to database...
+2025-02-03 00:48:15,844 - INFO - Saving new articles to database...
+2025-02-03 00:48:16,362 - WARNING - Skipping article 'Can India improve their 2-3 Champions Trophy negative Head-to-Head vs Pakistan? “It’s just a game…We’ll do what’s required’ – Rohit Sharma' due to invalid image URL: None
+2025-02-03 00:48:16,385 - WARNING - Skipping article 'Xi Weighs Retaliation After Trump Hits China With 10% Tariff' due to invalid image URL: None
+2025-02-03 00:48:16,385 - INFO - Orchestration completed.
+
+2025-02-03 00:51:02,605 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:51:02,606 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:51:03,245 - INFO - Finding 'Top stories' section...
+2025-02-03 00:51:03,248 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:51:03,248 - INFO - Scraping article headlines...
+2025-02-03 00:51:03,248 - INFO - Folder already exists
+2025-02-03 00:51:03,248 - INFO - Connecting to the database...
+2025-02-03 00:51:03,260 - INFO - Connection is complete...
+2025-02-03 00:51:04,207 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:51:04,226 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:51:04,244 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:51:04,256 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:51:04,270 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:51:04,284 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:51:04,297 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:51:04,313 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:51:04,336 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:51:04,354 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:51:04,374 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:51:04,387 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:51:04,400 - WARNING - Skipping article 'Surgical strike: Cancer care goes to town, more doctors in making' due to invalid image URL: None
+2025-02-03 00:51:04,417 - WARNING - Skipping article 'Govt plans to augment farm productivity in 100 districts' due to invalid image URL: None
+2025-02-03 00:51:04,457 - WARNING - Skipping article 'Budget 2025: Rent a home or buy one? That’s a yuge dilemma' due to invalid image URL: None
+2025-02-03 00:51:04,496 - WARNING - Skipping article 'Faizabad MP breaks down over Dalit woman rape-murder in Ayodhya' due to invalid image URL: None
+2025-02-03 00:51:04,526 - WARNING - Skipping article 'Stats: Record-breaking Abhishek lights up Wankhede' due to invalid image URL: None
+2025-02-03 00:51:04,551 - WARNING - Skipping article 'Budget 2025: From Polavaram Irrigation Project to water, railways, here's what announced for Andhra Pradesh' due to invalid image URL: None
+2025-02-03 00:51:04,574 - WARNING - Skipping article 'Pakistan-China threat looms, no big bang for defence' due to invalid image URL: None
+2025-02-03 00:51:04,602 - WARNING - Skipping article '"200 New Vande Bharat Trains In Next 2-3 Years": Ashwini Vaishnaw After Budget Allocation' due to invalid image URL: None
+2025-02-03 00:51:04,629 - WARNING - Skipping article 'Shun protectionism, India signals to industry with tariff cuts' due to invalid image URL: None
+2025-02-03 00:51:04,653 - WARNING - Skipping article 'Dominant India lift second consecutive ICC U19 Women’s T20 World Cup title' due to invalid image URL: None
+2025-02-03 00:51:04,674 - WARNING - Skipping article 'Shivam Dube returns after concussion, Out-of-form Samson to remain in lineup: India's likely XI vs England for 5th T20I' due to invalid image URL: None
+2025-02-03 00:51:04,699 - WARNING - Skipping article 'OPINION | Calling the President as 'poor thing' is insulting and inappropriate' due to invalid image URL: None
+2025-02-03 00:51:04,715 - WARNING - Skipping article 'Union Budget 2025 | Government expenditure estimated to cross Rs 50 lakh crore for the first time' due to invalid image URL: None
+2025-02-03 00:51:04,731 - WARNING - Skipping article 'Basant Panchami 2025: 8 yellow-coloured foods to celebrate the festival' due to invalid image URL: None
+2025-02-03 00:51:04,749 - WARNING - Skipping article 'Jammu and Kashmir Weather and AQI Today: Cool start at -28.87 °C, check weather forecast for February 2, 2025' due to invalid image URL: None
+2025-02-03 00:51:04,773 - WARNING - Skipping article 'Budget 2025: NPS Vatsalya, updated ITR deadline extension and other tax changes you may miss in bumper bonanaza' due to invalid image URL: None
+2025-02-03 00:51:04,796 - WARNING - Skipping article 'Deva Box Office Collection Day 3: Shahid Kapoor - Rosshan Andrrews’ film sees little growth, earns THIS amount' due to invalid image URL: None
+2025-02-03 00:51:04,812 - WARNING - Skipping article 'GBS outbreak: Suspected death toll from virus in Maharashtra reaches five | Latest updates' due to invalid image URL: None
+2025-02-03 00:51:04,825 - WARNING - Skipping article ''Feel ashamed to go abroad…': EAM launch a scathing attack on AAP govt ahead of Delhi Polls' due to invalid image URL: None
+2025-02-03 00:51:04,838 - WARNING - Skipping article ''Upper caste' minister for tribal affairs: Suresh Gopi withdraws controversial statement' due to invalid image URL: None
+2025-02-03 00:51:04,851 - WARNING - Skipping article 'Arjun ends 24-game winless streak, could ruin Gukesh’s Tata Masters title hopes; Praggnanandhaa to challenge India No. 1' due to invalid image URL: None
+2025-02-03 00:51:04,874 - WARNING - Skipping article 'Evening Court: Chief Justice Sanjiv Khanna's Plan To Tackle Pending Cases' due to invalid image URL: None
+2025-02-03 00:51:04,898 - WARNING - Skipping article 'Bengal Tigers beat Hyderabad Toofans 4-3 to become Hockey India League champions' due to invalid image URL: None
+2025-02-03 00:51:04,923 - WARNING - Skipping article '"Poetic Injustice": R Ashwin's Blunt Take On Concussion Substitution Controversy' due to invalid image URL: None
+2025-02-03 00:51:04,947 - WARNING - Skipping article ''Is this the same ball...?': Virat Kohli reacts as Himanshu Sangwan seeks him out in dressing room after dismissal' due to invalid image URL: None
+2025-02-03 00:51:04,969 - WARNING - Skipping article ''Stock market isn’t excited because...': Finance expert after Budget 2025 tax relief' due to invalid image URL: None
+2025-02-03 00:51:04,991 - WARNING - Skipping article 'Kia Syros compact SUV launches in India: Check prices, features, models and other details' due to invalid image URL: None
+2025-02-03 00:51:05,013 - WARNING - Skipping article 'Sky Force Crosses Rs 100 Crore At Box Office; Veer Pahariya’s Debut Receives Widespread Praise' due to invalid image URL: None
+2025-02-03 00:51:05,035 - WARNING - Skipping article 'WWE Royal Rumble 2025: Charlotte Flair creates history with victory against Roxanne Perez, books ticket to Wrestlemania' due to invalid image URL: None
+2025-02-03 00:51:05,060 - WARNING - Skipping article 'Crypto assets to be included in assessing undisclosed income, says Sitharaman in Budget' due to invalid image URL: None
+2025-02-03 00:51:05,087 - WARNING - Skipping article 'Stock Alert: ONGC, Sun Pharma, IndusInd Bank, Bandhan Bank, Tata Power' due to invalid image URL: None
+2025-02-03 00:51:05,107 - WARNING - Skipping article '5 Reasons Why Mamta Kulkarni Was Expelled From Kinnar Akhara' due to invalid image URL: None
+2025-02-03 00:51:05,127 - WARNING - Skipping article 'Sachin Tendulkar to be Bestowed with Lifetime Achievement Award at BCCI's Naman Awards 2025' due to invalid image URL: None
+2025-02-03 00:51:05,147 - WARNING - Skipping article 'Abhijeet Bhattacharya calls Udit Narayan 'khiladi' amid controversy over kissing fans on lips during performance - Watch - Trending News' due to invalid image URL: None
+2025-02-03 00:51:05,169 - WARNING - Skipping article 'IND vs ENG: Gautam Gambhir wants ‘aggressive’ India in ODIs before Champions Trophy' due to invalid image URL: None
+2025-02-03 00:51:05,192 - WARNING - Skipping article 'Donald Trump Hits China With Tariffs: Here's How Much Trade Is At Stake' due to invalid image URL: None
+2025-02-03 00:51:05,193 - INFO - Orchestration completed.
+
+2025-02-03 00:53:02,165 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:53:02,166 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:53:02,763 - INFO - Finding 'Top stories' section...
+2025-02-03 00:53:02,766 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:53:02,766 - INFO - Scraping article headlines...
+2025-02-03 00:53:02,766 - INFO - Folder already exists
+2025-02-03 00:53:02,766 - INFO - Connecting to the database...
+2025-02-03 00:53:02,778 - INFO - Connection is complete...
+2025-02-03 00:53:03,775 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:53:03,788 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:53:03,800 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:53:03,813 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:53:03,825 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:53:03,836 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:53:03,850 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:53:03,863 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:53:03,877 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:53:03,889 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:53:03,901 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:53:03,915 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:53:03,929 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:53:03,944 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:53:03,962 - INFO - Skipping duplicate: Relief for house owners, can claim nil tax on two self-occupied properties now, without conditions
+2025-02-03 00:53:03,982 - WARNING - Skipping article 'Gambhir on India's approach: 'We want to try and get to 250-260 regularly'' due to invalid image URL: None
+2025-02-03 00:53:04,003 - WARNING - Skipping article 'Budget 2025: From Polavaram Irrigation Project to water, railways, here's what announced for Andhra Pradesh' due to invalid image URL: None
+2025-02-03 00:53:04,024 - WARNING - Skipping article 'Faizabad MP breaks down over Dalit woman rape-murder in Ayodhya' due to invalid image URL: None
+2025-02-03 00:53:04,042 - WARNING - Skipping article 'Pakistan-China threat looms, no big bang for defence' due to invalid image URL: None
+2025-02-03 00:53:04,062 - WARNING - Skipping article 'Shun protectionism, India signals to industry with tariff cuts' due to invalid image URL: None
+2025-02-03 00:53:04,083 - WARNING - Skipping article '"200 New Vande Bharat Trains In Next 2-3 Years": Ashwini Vaishnaw After Budget Allocation' due to invalid image URL: None
+2025-02-03 00:53:04,105 - WARNING - Skipping article 'OPINION | Calling the President as 'poor thing' is insulting and inappropriate' due to invalid image URL: None
+2025-02-03 00:53:04,128 - WARNING - Skipping article 'Union Budget 2025 | Government expenditure estimated to cross Rs 50 lakh crore for the first time' due to invalid image URL: None
+2025-02-03 00:53:04,152 - WARNING - Skipping article '‘Dark day for Karnataka’: Congress slams Centre for neglecting state, Bengaluru in Union Budget 2025' due to invalid image URL: None
+2025-02-03 00:53:04,173 - WARNING - Skipping article 'Basant Panchami 2025: 8 yellow-coloured foods to celebrate the festival' due to invalid image URL: None
+2025-02-03 00:53:04,194 - WARNING - Skipping article 'Jammu and Kashmir Weather and AQI Today: Cool start at -28.87 °C, check weather forecast for February 2, 2025' due to invalid image URL: None
+2025-02-03 00:53:04,215 - WARNING - Skipping article 'Budget 2025: NPS Vatsalya, updated ITR deadline extension and other tax changes you may miss in bumper bonanaza' due to invalid image URL: None
+2025-02-03 00:53:04,237 - WARNING - Skipping article 'Dominant India lift second consecutive ICC U19 Women’s T20 World Cup title' due to invalid image URL: None
+2025-02-03 00:53:04,259 - WARNING - Skipping article 'Deva Box Office Collection Day 3: Shahid Kapoor - Rosshan Andrrews’ film sees little growth, earns THIS amount' due to invalid image URL: None
+2025-02-03 00:53:04,280 - WARNING - Skipping article 'GBS outbreak: Suspected death toll from virus in Maharashtra reaches five | Latest updates' due to invalid image URL: None
+2025-02-03 00:53:04,304 - WARNING - Skipping article ''Feel ashamed to go abroad…': EAM launch a scathing attack on AAP govt ahead of Delhi Polls' due to invalid image URL: None
+2025-02-03 00:53:04,329 - WARNING - Skipping article 'Shivam Dube returns after concussion, Out-of-form Samson to remain in lineup: India's likely XI vs England for 5th T20I' due to invalid image URL: None
+2025-02-03 00:53:04,351 - WARNING - Skipping article 'Arjun ends 24-game winless streak, could ruin Gukesh’s Tata Masters title hopes; Praggnanandhaa to challenge India No. 1' due to invalid image URL: None
+2025-02-03 00:53:04,369 - WARNING - Skipping article 'Evening Court: Chief Justice Sanjiv Khanna's Plan To Tackle Pending Cases' due to invalid image URL: None
+2025-02-03 00:53:04,382 - WARNING - Skipping article 'Bengal Tigers beat Hyderabad Toofans 4-3 to become Hockey India League champions' due to invalid image URL: None
+2025-02-03 00:53:04,402 - WARNING - Skipping article ''Is this the same ball...?': Virat Kohli reacts as Himanshu Sangwan seeks him out in dressing room after dismissal' due to invalid image URL: None
+2025-02-03 00:53:04,425 - WARNING - Skipping article ''Did we forget that it was an international match?': R Ashwin questions Harshit Rana's concussion substit' due to invalid image URL: None
+2025-02-03 00:53:04,446 - WARNING - Skipping article ''Stock market isn’t excited because...': Finance expert after Budget 2025 tax relief' due to invalid image URL: None
+2025-02-03 00:53:04,471 - WARNING - Skipping article 'Kia Syros compact SUV launches in India: Check prices, features, models and other details' due to invalid image URL: None
+2025-02-03 00:53:04,493 - WARNING - Skipping article 'Sky Force Crosses Rs 100 Crore At Box Office; Veer Pahariya’s Debut Receives Widespread Praise' due to invalid image URL: None
+2025-02-03 00:53:04,515 - WARNING - Skipping article 'Internet digs out old videos of Udit Narayan kissing Alka Yagnik and Shreya Ghoshal after furore over fan kiss' due to invalid image URL: None
+2025-02-03 00:53:04,536 - WARNING - Skipping article 'WWE Royal Rumble 2025: Charlotte Flair creates history with victory against Roxanne Perez, books ticket to Wrestlemania' due to invalid image URL: None
+2025-02-03 00:53:04,557 - WARNING - Skipping article 'Crypto assets to be included in assessing undisclosed income, says Sitharaman in Budget' due to invalid image URL: None
+2025-02-03 00:53:04,578 - WARNING - Skipping article 'Stock Alert: ONGC, Sun Pharma, IndusInd Bank, Bandhan Bank, Tata Power' due to invalid image URL: None
+2025-02-03 00:53:04,600 - WARNING - Skipping article '5 Reasons Why Mamta Kulkarni Was Expelled From Kinnar Akhara' due to invalid image URL: None
+2025-02-03 00:53:04,627 - WARNING - Skipping article 'Sachin Tendulkar to be Bestowed with Lifetime Achievement Award at BCCI's Naman Awards 2025' due to invalid image URL: None
+2025-02-03 00:53:04,652 - WARNING - Skipping article 'IND vs ENG: Gautam Gambhir wants ‘aggressive’ India in ODIs before Champions Trophy' due to invalid image URL: None
+2025-02-03 00:53:04,653 - INFO - Orchestration completed.
+
+2025-02-03 00:54:02,407 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:54:02,407 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:54:02,975 - INFO - Finding 'Top stories' section...
+2025-02-03 00:54:02,979 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:54:02,979 - INFO - Scraping article headlines...
+2025-02-03 00:54:02,979 - INFO - Folder already exists
+2025-02-03 00:54:02,979 - INFO - Connecting to the database...
+2025-02-03 00:54:02,990 - INFO - Connection is complete...
+2025-02-03 00:54:04,061 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:54:04,073 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:54:04,085 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:54:04,096 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:54:04,108 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:54:04,120 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:54:04,132 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:54:04,144 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:54:04,156 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:54:04,168 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:54:04,180 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:54:04,199 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:54:04,219 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:54:04,240 - INFO - Skipping duplicate: Relief for house owners, can claim nil tax on two self-occupied properties now, without conditions
+2025-02-03 00:54:04,262 - WARNING - Skipping article 'Faizabad MP breaks down over Dalit woman rape-murder in Ayodhya' due to invalid image URL: None
+2025-02-03 00:54:04,282 - WARNING - Skipping article 'Stats: Record-breaking Abhishek lights up Wankhede' due to invalid image URL: None
+2025-02-03 00:54:04,302 - WARNING - Skipping article 'Budget 2025: From Polavaram Irrigation Project to water, railways, here's what announced for Andhra Pradesh' due to invalid image URL: None
+2025-02-03 00:54:04,323 - WARNING - Skipping article 'Pakistan-China threat looms, no big bang for defence' due to invalid image URL: None
+2025-02-03 00:54:04,344 - WARNING - Skipping article 'Union Budget 2025: Customs duty for fully built 1,600cc bikes cut to 30%' due to invalid image URL: None
+2025-02-03 00:54:04,365 - WARNING - Skipping article '"200 New Vande Bharat Trains In Next 2-3 Years": Ashwini Vaishnaw After Budget Allocation' due to invalid image URL: None
+2025-02-03 00:54:04,386 - WARNING - Skipping article 'OPINION | Calling the President as 'poor thing' is insulting and inappropriate' due to invalid image URL: None
+2025-02-03 00:54:04,407 - WARNING - Skipping article 'Union Budget 2025 | Government expenditure estimated to cross Rs 50 lakh crore for the first time' due to invalid image URL: None
+2025-02-03 00:54:04,428 - WARNING - Skipping article '‘Dark day for Karnataka’: Congress slams Centre for neglecting state, Bengaluru in Union Budget 2025' due to invalid image URL: None
+2025-02-03 00:54:04,449 - WARNING - Skipping article 'Basant Panchami 2025: 8 yellow-coloured foods to celebrate the festival' due to invalid image URL: None
+2025-02-03 00:54:04,470 - WARNING - Skipping article 'Jammu and Kashmir Weather and AQI Today: Cool start at -28.87 °C, check weather forecast for February 2, 2025' due to invalid image URL: None
+2025-02-03 00:54:04,492 - WARNING - Skipping article 'Budget 2025: NPS Vatsalya, updated ITR deadline extension and other tax changes you may miss in bumper bonanaza' due to invalid image URL: None
+2025-02-03 00:54:04,514 - WARNING - Skipping article 'Dominant India lift second consecutive ICC U19 Women’s T20 World Cup title' due to invalid image URL: None
+2025-02-03 00:54:04,535 - WARNING - Skipping article 'Deva Box Office Collection Day 3: Shahid Kapoor - Rosshan Andrrews’ film sees little growth, earns THIS amount' due to invalid image URL: None
+2025-02-03 00:54:04,557 - WARNING - Skipping article 'GBS outbreak: Suspected death toll from virus in Maharashtra reaches five | Latest updates' due to invalid image URL: None
+2025-02-03 00:54:04,582 - WARNING - Skipping article ''Feel ashamed to go abroad…': EAM launch a scathing attack on AAP govt ahead of Delhi Polls' due to invalid image URL: None
+2025-02-03 00:54:04,604 - WARNING - Skipping article 'New definition for MSMEs, increased credit guarantee' due to invalid image URL: None
+2025-02-03 00:54:04,625 - WARNING - Skipping article 'Arjun ends 24-game winless streak, could ruin Gukesh’s Tata Masters title hopes; Praggnanandhaa to challenge India No. 1' due to invalid image URL: None
+2025-02-03 00:54:04,647 - WARNING - Skipping article 'Evening Court: Chief Justice Sanjiv Khanna's Plan To Tackle Pending Cases' due to invalid image URL: None
+2025-02-03 00:54:04,670 - WARNING - Skipping article 'Bengal Tigers beat Hyderabad Toofans 4-3 to become Hockey India League champions' due to invalid image URL: None
+2025-02-03 00:54:04,692 - WARNING - Skipping article ''Is this the same ball...?': Virat Kohli reacts as Himanshu Sangwan seeks him out in dressing room after dismissal' due to invalid image URL: None
+2025-02-03 00:54:04,714 - WARNING - Skipping article ''Did we forget that it was an international match?': R Ashwin questions Harshit Rana's concussion substit' due to invalid image URL: None
+2025-02-03 00:54:04,736 - WARNING - Skipping article 'Kia Syros compact SUV launches in India: Check prices, features, models and other details' due to invalid image URL: None
+2025-02-03 00:54:04,757 - WARNING - Skipping article 'Dalal Street Week Ahead: RBI policy, Q3 Earnings, PMI, US jobs data among 10 key factors to watch' due to invalid image URL: None
+2025-02-03 00:54:04,780 - WARNING - Skipping article 'Sky Force Crosses Rs 100 Crore At Box Office; Veer Pahariya’s Debut Receives Widespread Praise' due to invalid image URL: None
+2025-02-03 00:54:04,804 - WARNING - Skipping article 'Internet digs out old videos of Udit Narayan kissing Alka Yagnik and Shreya Ghoshal after furore over fan kiss' due to invalid image URL: None
+2025-02-03 00:54:04,826 - WARNING - Skipping article 'WWE Royal Rumble 2025 Match Result: The Queen Charlotte Flair Wins the Women's Rumble Match' due to invalid image URL: None
+2025-02-03 00:54:04,848 - WARNING - Skipping article 'Union Budget: Trading in crypto? There is a bigly tax to pay' due to invalid image URL: None
+2025-02-03 00:54:04,871 - WARNING - Skipping article 'Stock Alert: ONGC, Sun Pharma, IndusInd Bank, Bandhan Bank, Tata Power' due to invalid image URL: None
+2025-02-03 00:54:04,893 - WARNING - Skipping article '5 Reasons Why Mamta Kulkarni Was Expelled From Kinnar Akhara' due to invalid image URL: None
+2025-02-03 00:54:04,914 - WARNING - Skipping article 'Sachin Tendulkar to be Bestowed with Lifetime Achievement Award at BCCI's Naman Awards 2025' due to invalid image URL: None
+2025-02-03 00:54:04,936 - WARNING - Skipping article 'IND vs ENG: Gautam Gambhir wants ‘aggressive’ India in ODIs before Champions Trophy' due to invalid image URL: None
+2025-02-03 00:54:04,960 - WARNING - Skipping article 'India vs England 5th T20I Highlights: India thrash England by 150 runs to clinch series 4-1' due to invalid image URL: None
+2025-02-03 00:54:04,962 - INFO - Orchestration completed.
+
+2025-02-03 00:55:02,038 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:55:02,039 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:55:02,685 - INFO - Finding 'Top stories' section...
+2025-02-03 00:55:02,688 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:55:02,689 - INFO - Scraping article headlines...
+2025-02-03 00:55:02,689 - INFO - Folder already exists
+2025-02-03 00:55:02,689 - INFO - Connecting to the database...
+2025-02-03 00:55:02,700 - INFO - Connection is complete...
+2025-02-03 00:55:03,583 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:55:03,594 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:55:03,606 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:55:03,618 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:55:03,636 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:55:03,658 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:55:03,680 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:55:03,701 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:55:03,722 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:55:03,742 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:55:03,763 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:55:03,785 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:55:03,806 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:55:03,827 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:55:03,849 - WARNING - Skipping article 'Budget 2025: Rent a home or buy one? That’s a yuge dilemma' due to invalid image URL: None
+2025-02-03 00:55:03,870 - WARNING - Skipping article 'Faizabad MP breaks down over Dalit woman rape-murder in Ayodhya' due to invalid image URL: None
+2025-02-03 00:55:03,893 - WARNING - Skipping article 'Stats: Record-breaking Abhishek lights up Wankhede' due to invalid image URL: None
+2025-02-03 00:55:03,914 - WARNING - Skipping article 'Budget 2025: From Polavaram Irrigation Project to water, railways, here's what announced for Andhra Pradesh' due to invalid image URL: None
+2025-02-03 00:55:03,935 - WARNING - Skipping article 'Pakistan-China threat looms, no big bang for defence' due to invalid image URL: None
+2025-02-03 00:55:03,956 - WARNING - Skipping article '"200 New Vande Bharat Trains In Next 2-3 Years": Ashwini Vaishnaw After Budget Allocation' due to invalid image URL: None
+2025-02-03 00:55:03,978 - WARNING - Skipping article 'Union Budget 2025: Customs duty for fully built 1,600cc bikes cut to 30%' due to invalid image URL: None
+2025-02-03 00:55:04,000 - WARNING - Skipping article 'Dominant India lift second consecutive ICC U19 Women’s T20 World Cup title' due to invalid image URL: None
+2025-02-03 00:55:04,021 - WARNING - Skipping article 'Shivam Dube returns after concussion, Out-of-form Samson to remain in lineup: India's likely XI vs England for 5th T20I' due to invalid image URL: None
+2025-02-03 00:55:04,042 - WARNING - Skipping article 'OPINION | Calling the President as 'poor thing' is insulting and inappropriate' due to invalid image URL: None
+2025-02-03 00:55:04,064 - WARNING - Skipping article 'Union Budget 2025 | Government expenditure estimated to cross Rs 50 lakh crore for the first time' due to invalid image URL: None
+2025-02-03 00:55:04,085 - WARNING - Skipping article 'Basant Panchami 2025: 8 yellow-coloured foods to celebrate the festival' due to invalid image URL: None
+2025-02-03 00:55:04,106 - WARNING - Skipping article 'Jammu and Kashmir Weather and AQI Today: Cool start at -28.87 °C, check weather forecast for February 2, 2025' due to invalid image URL: None
+2025-02-03 00:55:04,127 - WARNING - Skipping article 'Deva Box Office Collection Day 3: Shahid Kapoor - Rosshan Andrrews’ film sees little growth, earns THIS amount' due to invalid image URL: None
+2025-02-03 00:55:04,148 - WARNING - Skipping article 'GBS outbreak: Suspected death toll from virus in Maharashtra reaches five | Latest updates' due to invalid image URL: None
+2025-02-03 00:55:04,171 - WARNING - Skipping article ''Feel ashamed to go abroad…': EAM launch a scathing attack on AAP govt ahead of Delhi Polls' due to invalid image URL: None
+2025-02-03 00:55:04,192 - WARNING - Skipping article ''Upper caste' minister for tribal affairs: Suresh Gopi withdraws controversial statement' due to invalid image URL: None
+2025-02-03 00:55:04,214 - WARNING - Skipping article 'Arjun ends 24-game winless streak, could ruin Gukesh’s Tata Masters title hopes; Praggnanandhaa to challenge India No. 1' due to invalid image URL: None
+2025-02-03 00:55:04,235 - WARNING - Skipping article 'Evening Court: Chief Justice Sanjiv Khanna's Plan To Tackle Pending Cases' due to invalid image URL: None
+2025-02-03 00:55:04,257 - WARNING - Skipping article 'Bengal Tigers beat Hyderabad Toofans 4-3 to become Hockey India League champions' due to invalid image URL: None
+2025-02-03 00:55:04,278 - WARNING - Skipping article ''Is this the same ball...?': Virat Kohli reacts as Himanshu Sangwan seeks him out in dressing room after dismissal' due to invalid image URL: None
+2025-02-03 00:55:04,300 - WARNING - Skipping article '"Poetic Injustice": R Ashwin's Blunt Take On Concussion Substitution Controversy' due to invalid image URL: None
+2025-02-03 00:55:04,322 - WARNING - Skipping article 'Dalal Street Week Ahead: RBI policy, Q3 Earnings, PMI, US jobs data among 10 key factors to watch' due to invalid image URL: None
+2025-02-03 00:55:04,343 - WARNING - Skipping article 'Kia Syros compact SUV launches in India: Check prices, features, models and other details' due to invalid image URL: None
+2025-02-03 00:55:04,364 - WARNING - Skipping article 'Sky Force Crosses Rs 100 Crore At Box Office; Veer Pahariya’s Debut Receives Widespread Praise' due to invalid image URL: None
+2025-02-03 00:55:04,386 - WARNING - Skipping article 'WWE Royal Rumble 2025 Match Result: The Queen Charlotte Flair Wins the Women's Rumble Match' due to invalid image URL: None
+2025-02-03 00:55:04,407 - WARNING - Skipping article 'Union Budget: Trading in crypto? There is a bigly tax to pay' due to invalid image URL: None
+2025-02-03 00:55:04,428 - WARNING - Skipping article 'Stock Alert: ONGC, Sun Pharma, IndusInd Bank, Bandhan Bank, Tata Power' due to invalid image URL: None
+2025-02-03 00:55:04,449 - WARNING - Skipping article '5 Reasons Why Mamta Kulkarni Was Expelled From Kinnar Akhara' due to invalid image URL: None
+2025-02-03 00:55:04,470 - WARNING - Skipping article 'Sachin Tendulkar to be Bestowed with Lifetime Achievement Award at BCCI's Naman Awards 2025' due to invalid image URL: None
+2025-02-03 00:55:04,492 - WARNING - Skipping article 'Abhijeet Bhattacharya calls Udit Narayan 'khiladi' amid controversy over kissing fans on lips during performance - Watch - Trending News' due to invalid image URL: None
+2025-02-03 00:55:04,514 - WARNING - Skipping article 'IND vs ENG: Gautam Gambhir wants ‘aggressive’ India in ODIs before Champions Trophy' due to invalid image URL: None
+2025-02-03 00:55:04,515 - INFO - Orchestration completed.
+
+2025-02-03 00:56:02,416 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:56:02,417 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:56:03,697 - INFO - Finding 'Top stories' section...
+2025-02-03 00:56:03,701 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:56:03,701 - INFO - Scraping article headlines...
+2025-02-03 00:56:03,701 - INFO - Folder already exists
+2025-02-03 00:56:03,701 - INFO - Connecting to the database...
+2025-02-03 00:56:03,713 - INFO - Connection is complete...
+2025-02-03 00:56:04,770 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:56:04,782 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:56:04,795 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:56:04,811 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:56:04,833 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:56:04,854 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:56:04,875 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:56:04,898 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:56:04,920 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:56:04,941 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:56:04,962 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:56:04,983 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:56:05,006 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:56:05,027 - INFO - Skipping duplicate: Relief for house owners, can claim nil tax on two self-occupied properties now, without conditions
+2025-02-03 00:56:05,048 - WARNING - Skipping article 'Faizabad MP breaks down over Dalit woman rape-murder in Ayodhya' due to invalid image URL: None
+2025-02-03 00:56:05,071 - WARNING - Skipping article 'Stats: Record-breaking Abhishek lights up Wankhede' due to invalid image URL: None
+2025-02-03 00:56:05,093 - WARNING - Skipping article 'Budget 2025: From Polavaram Irrigation Project to water, railways, here's what announced for Andhra Pradesh' due to invalid image URL: None
+2025-02-03 00:56:05,115 - WARNING - Skipping article 'Pakistan-China threat looms, no big bang for defence' due to invalid image URL: None
+2025-02-03 00:56:05,137 - WARNING - Skipping article 'Shun protectionism, India signals to industry with tariff cuts' due to invalid image URL: None
+2025-02-03 00:56:05,158 - WARNING - Skipping article '"200 New Vande Bharat Trains In Next 2-3 Years": Ashwini Vaishnaw After Budget Allocation' due to invalid image URL: None
+2025-02-03 00:56:05,179 - WARNING - Skipping article 'OPINION | Calling the President as 'poor thing' is insulting and inappropriate' due to invalid image URL: None
+2025-02-03 00:56:05,201 - WARNING - Skipping article 'Union Budget 2025 | Government expenditure estimated to cross Rs 50 lakh crore for the first time' due to invalid image URL: None
+2025-02-03 00:56:05,222 - WARNING - Skipping article '‘Dark day for Karnataka’: Congress slams Centre for neglecting state, Bengaluru in Union Budget 2025' due to invalid image URL: None
+2025-02-03 00:56:05,243 - WARNING - Skipping article 'Basant Panchami 2025: 8 yellow-coloured foods to celebrate the festival' due to invalid image URL: None
+2025-02-03 00:56:05,264 - WARNING - Skipping article 'Jammu and Kashmir Weather and AQI Today: Cool start at -28.87 °C, check weather forecast for February 2, 2025' due to invalid image URL: None
+2025-02-03 00:56:05,285 - WARNING - Skipping article 'Budget 2025: NPS Vatsalya, updated ITR deadline extension and other tax changes you may miss in bumper bonanaza' due to invalid image URL: None
+2025-02-03 00:56:05,306 - WARNING - Skipping article 'Dominant India lift second consecutive ICC U19 Women’s T20 World Cup title' due to invalid image URL: None
+2025-02-03 00:56:05,329 - WARNING - Skipping article 'Deva Box Office Collection Day 3: Shahid Kapoor - Rosshan Andrrews’ film sees little growth, earns THIS amount' due to invalid image URL: None
+2025-02-03 00:56:05,350 - WARNING - Skipping article 'GBS outbreak: Suspected death toll from virus in Maharashtra reaches five | Latest updates' due to invalid image URL: None
+2025-02-03 00:56:05,373 - WARNING - Skipping article ''Feel ashamed to go abroad…': EAM launch a scathing attack on AAP govt ahead of Delhi Polls' due to invalid image URL: None
+2025-02-03 00:56:05,395 - WARNING - Skipping article 'A strategic step, a boost for social sector — Pune Inc voices its support for Union Budget 2025' due to invalid image URL: None
+2025-02-03 00:56:05,419 - WARNING - Skipping article 'Arjun ends 24-game winless streak, could ruin Gukesh’s Tata Masters title hopes; Praggnanandhaa to challenge India No. 1' due to invalid image URL: None
+2025-02-03 00:56:05,441 - WARNING - Skipping article 'Evening Court: Chief Justice Sanjiv Khanna's Plan To Tackle Pending Cases' due to invalid image URL: None
+2025-02-03 00:56:05,462 - WARNING - Skipping article 'Bengal Tigers beat Hyderabad Toofans 4-3 to become Hockey India League champions' due to invalid image URL: None
+2025-02-03 00:56:05,484 - WARNING - Skipping article ''Is this the same ball...?': Virat Kohli reacts as Himanshu Sangwan seeks him out in dressing room after dismissal' due to invalid image URL: None
+2025-02-03 00:56:05,505 - WARNING - Skipping article ''Did we forget that it was an international match?': R Ashwin questions Harshit Rana's concussion substit' due to invalid image URL: None
+2025-02-03 00:56:05,526 - WARNING - Skipping article 'Kia Syros compact SUV launches in India: Check prices, features, models and other details' due to invalid image URL: None
+2025-02-03 00:56:05,547 - WARNING - Skipping article 'Dalal Street Week Ahead: RBI policy, Q3 Earnings, PMI, US jobs data among 10 key factors to watch' due to invalid image URL: None
+2025-02-03 00:56:05,570 - WARNING - Skipping article 'Sky Force Crosses Rs 100 Crore At Box Office; Veer Pahariya’s Debut Receives Widespread Praise' due to invalid image URL: None
+2025-02-03 00:56:05,591 - WARNING - Skipping article 'Internet digs out old videos of Udit Narayan kissing Alka Yagnik and Shreya Ghoshal after furore over fan kiss' due to invalid image URL: None
+2025-02-03 00:56:05,612 - WARNING - Skipping article 'WWE Royal Rumble 2025 Match Result: The Queen Charlotte Flair Wins the Women's Rumble Match' due to invalid image URL: None
+2025-02-03 00:56:05,634 - WARNING - Skipping article 'Union Budget: Trading in crypto? There is a bigly tax to pay' due to invalid image URL: None
+2025-02-03 00:56:05,655 - WARNING - Skipping article 'Stock Alert: ONGC, Sun Pharma, IndusInd Bank, Bandhan Bank, Tata Power' due to invalid image URL: None
+2025-02-03 00:56:05,678 - WARNING - Skipping article '5 Reasons Why Mamta Kulkarni Was Expelled From Kinnar Akhara' due to invalid image URL: None
+2025-02-03 00:56:05,702 - WARNING - Skipping article 'Sachin Tendulkar to be Bestowed with Lifetime Achievement Award at BCCI's Naman Awards 2025' due to invalid image URL: None
+2025-02-03 00:56:05,723 - WARNING - Skipping article 'IND vs ENG: Gautam Gambhir wants ‘aggressive’ India in ODIs before Champions Trophy' due to invalid image URL: None
+2025-02-03 00:56:05,744 - WARNING - Skipping article 'India vs England 5th T20I Highlights: India thrash England by 150 runs to clinch series 4-1' due to invalid image URL: None
+2025-02-03 00:56:05,745 - INFO - Orchestration completed.
+
+2025-02-03 00:57:02,721 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:57:02,722 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:57:03,511 - INFO - Finding 'Top stories' section...
+2025-02-03 00:57:03,514 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:57:03,514 - INFO - Scraping article headlines...
+2025-02-03 00:57:03,514 - INFO - Folder already exists
+2025-02-03 00:57:03,514 - INFO - Connecting to the database...
+2025-02-03 00:57:03,526 - INFO - Connection is complete...
+2025-02-03 00:57:04,518 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:57:04,529 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:57:04,542 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:57:04,556 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:57:04,575 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:57:04,592 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:57:04,604 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:57:04,619 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:57:04,640 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:57:04,659 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:57:04,672 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:57:04,691 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:57:04,715 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:57:04,739 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:57:04,761 - INFO - Skipping duplicate: Relief for house owners, can claim nil tax on two self-occupied properties now, without conditions
+2025-02-03 00:57:04,783 - WARNING - Skipping article 'Stats: Record-breaking Abhishek lights up Wankhede' due to invalid image URL: None
+2025-02-03 00:57:04,805 - WARNING - Skipping article 'Faizabad MP breaks down over Dalit woman rape-murder in Ayodhya' due to invalid image URL: None
+2025-02-03 00:57:04,828 - WARNING - Skipping article 'Budget 2025: From Polavaram Irrigation Project to water, railways, here's what announced for Andhra Pradesh' due to invalid image URL: None
+2025-02-03 00:57:04,850 - WARNING - Skipping article 'Pakistan-China threat looms, no big bang for defence' due to invalid image URL: None
+2025-02-03 00:57:04,874 - WARNING - Skipping article 'Shun protectionism, India signals to industry with tariff cuts' due to invalid image URL: None
+2025-02-03 00:57:04,897 - WARNING - Skipping article '"200 New Vande Bharat Trains In Next 2-3 Years": Ashwini Vaishnaw After Budget Allocation' due to invalid image URL: None
+2025-02-03 00:57:04,921 - WARNING - Skipping article 'OPINION | Calling the President as 'poor thing' is insulting and inappropriate' due to invalid image URL: None
+2025-02-03 00:57:04,944 - WARNING - Skipping article 'Union Budget 2025 | Government expenditure estimated to cross Rs 50 lakh crore for the first time' due to invalid image URL: None
+2025-02-03 00:57:04,967 - WARNING - Skipping article 'Basant Panchami 2025: 8 yellow-coloured foods to celebrate the festival' due to invalid image URL: None
+2025-02-03 00:57:04,991 - WARNING - Skipping article 'Jammu and Kashmir Weather and AQI Today: Cool start at -28.87 °C, check weather forecast for February 2, 2025' due to invalid image URL: None
+2025-02-03 00:57:05,016 - WARNING - Skipping article '‘Dark day for Karnataka’: Congress slams Centre for neglecting state, Bengaluru in Union Budget 2025' due to invalid image URL: None
+2025-02-03 00:57:05,039 - WARNING - Skipping article 'Dominant India lift second consecutive ICC U19 Women’s T20 World Cup title' due to invalid image URL: None
+2025-02-03 00:57:05,063 - WARNING - Skipping article 'Deva Box Office Collection Day 3: Shahid Kapoor - Rosshan Andrrews’ film sees little growth, earns THIS amount' due to invalid image URL: None
+2025-02-03 00:57:05,086 - WARNING - Skipping article 'India vs England 5th T20I Highlights: India thrash England by 150 runs to clinch series 4-1' due to invalid image URL: None
+2025-02-03 00:57:05,110 - WARNING - Skipping article 'GBS outbreak: Suspected death toll from virus in Maharashtra reaches five | Latest updates' due to invalid image URL: None
+2025-02-03 00:57:05,135 - WARNING - Skipping article ''Feel ashamed to go abroad…': EAM launch a scathing attack on AAP govt ahead of Delhi Polls' due to invalid image URL: None
+2025-02-03 00:57:05,159 - WARNING - Skipping article 'Arjun ends 24-game winless streak, could ruin Gukesh’s Tata Masters title hopes; Praggnanandhaa to challenge India No. 1' due to invalid image URL: None
+2025-02-03 00:57:05,181 - WARNING - Skipping article 'Evening Court: Chief Justice Sanjiv Khanna's Plan To Tackle Pending Cases' due to invalid image URL: None
+2025-02-03 00:57:05,203 - WARNING - Skipping article 'Bengal Tigers beat Hyderabad Toofans 4-3 to become Hockey India League champions' due to invalid image URL: None
+2025-02-03 00:57:05,225 - WARNING - Skipping article ''Is this the same ball...?': Virat Kohli reacts as Himanshu Sangwan seeks him out in dressing room after dismissal' due to invalid image URL: None
+2025-02-03 00:57:05,246 - WARNING - Skipping article ''Did we forget that it was an international match?': R Ashwin questions Harshit Rana's concussion substit' due to invalid image URL: None
+2025-02-03 00:57:05,268 - WARNING - Skipping article 'Dalal Street Week Ahead: RBI policy, Q3 Earnings, PMI, US jobs data among 10 key factors to watch' due to invalid image URL: None
+2025-02-03 00:57:05,290 - WARNING - Skipping article 'Kia Syros compact SUV launches in India: Check prices, features, models and other details' due to invalid image URL: None
+2025-02-03 00:57:05,311 - WARNING - Skipping article 'Sky Force Crosses Rs 100 Crore At Box Office; Veer Pahariya’s Debut Receives Widespread Praise' due to invalid image URL: None
+2025-02-03 00:57:05,332 - WARNING - Skipping article 'Internet digs out old videos of Udit Narayan kissing Alka Yagnik and Shreya Ghoshal after furore over fan kiss' due to invalid image URL: None
+2025-02-03 00:57:05,354 - WARNING - Skipping article 'Xi Weighs Retaliation After Trump Hits China With 10% Tariff' due to invalid image URL: None
+2025-02-03 00:57:05,377 - WARNING - Skipping article 'WWE Royal Rumble 2025 Match Result: The Queen Charlotte Flair Wins the Women's Rumble Match' due to invalid image URL: None
+2025-02-03 00:57:05,400 - WARNING - Skipping article 'Union Budget: Trading in crypto? There is a bigly tax to pay' due to invalid image URL: None
+2025-02-03 00:57:05,422 - WARNING - Skipping article 'Stock Alert: ONGC, Sun Pharma, IndusInd Bank, Bandhan Bank, Tata Power' due to invalid image URL: None
+2025-02-03 00:57:05,446 - WARNING - Skipping article '5 Reasons Why Mamta Kulkarni Was Expelled From Kinnar Akhara' due to invalid image URL: None
+2025-02-03 00:57:05,469 - WARNING - Skipping article 'Sachin Tendulkar to be Bestowed with Lifetime Achievement Award at BCCI's Naman Awards 2025' due to invalid image URL: None
+2025-02-03 00:57:05,492 - WARNING - Skipping article 'IND vs ENG: Gautam Gambhir wants ‘aggressive’ India in ODIs before Champions Trophy' due to invalid image URL: None
+2025-02-03 00:57:05,493 - INFO - Orchestration completed.
+
+2025-02-03 00:58:02,520 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:58:02,521 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:58:03,121 - INFO - Finding 'Top stories' section...
+2025-02-03 00:58:03,124 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:58:03,124 - INFO - Scraping article headlines...
+2025-02-03 00:58:03,124 - INFO - Folder already exists
+2025-02-03 00:58:03,124 - INFO - Connecting to the database...
+2025-02-03 00:58:03,136 - INFO - Connection is complete...
+2025-02-03 00:58:04,226 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:58:04,237 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:58:04,250 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:58:04,267 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:58:04,288 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:58:04,309 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:58:04,331 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:58:04,352 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:58:04,374 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:58:04,395 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:58:04,416 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:58:04,438 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:58:04,459 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:58:04,480 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:58:04,502 - WARNING - Skipping article 'Budget 2025: Rent a home or buy one? That’s a yuge dilemma' due to invalid image URL: None
+2025-02-03 00:58:04,523 - WARNING - Skipping article 'Stats: Record-breaking Abhishek lights up Wankhede' due to invalid image URL: None
+2025-02-03 00:58:04,544 - WARNING - Skipping article 'Faizabad MP breaks down over Dalit woman rape-murder in Ayodhya' due to invalid image URL: None
+2025-02-03 00:58:04,565 - WARNING - Skipping article 'Budget 2025: From Polavaram Irrigation Project to water, railways, here's what announced for Andhra Pradesh' due to invalid image URL: None
+2025-02-03 00:58:04,585 - WARNING - Skipping article 'Pakistan-China threat looms, no big bang for defence' due to invalid image URL: None
+2025-02-03 00:58:04,606 - WARNING - Skipping article '"200 New Vande Bharat Trains In Next 2-3 Years": Ashwini Vaishnaw After Budget Allocation' due to invalid image URL: None
+2025-02-03 00:58:04,627 - WARNING - Skipping article 'Shun protectionism, India signals to industry with tariff cuts' due to invalid image URL: None
+2025-02-03 00:58:04,648 - WARNING - Skipping article 'Dominant India lift second consecutive ICC U19 Women’s T20 World Cup title' due to invalid image URL: None
+2025-02-03 00:58:04,672 - WARNING - Skipping article 'OPINION | Calling the President as 'poor thing' is insulting and inappropriate' due to invalid image URL: None
+2025-02-03 00:58:04,694 - WARNING - Skipping article 'Union Budget 2025 | Government expenditure estimated to cross Rs 50 lakh crore for the first time' due to invalid image URL: None
+2025-02-03 00:58:04,717 - WARNING - Skipping article 'India vs England Highlights, 5th T20I: All-Round Abhishek Sharma Stars As India Clinch Series 4-1' due to invalid image URL: None
+2025-02-03 00:58:04,738 - WARNING - Skipping article 'Basant Panchami 2025: 8 yellow-coloured foods to celebrate the festival' due to invalid image URL: None
+2025-02-03 00:58:04,759 - WARNING - Skipping article 'Jammu and Kashmir Weather and AQI Today: Cool start at -28.87 °C, check weather forecast for February 2, 2025' due to invalid image URL: None
+2025-02-03 00:58:04,780 - WARNING - Skipping article 'Deva Box Office Collection Day 3: Shahid Kapoor - Rosshan Andrrews’ film sees little growth, earns THIS amount' due to invalid image URL: None
+2025-02-03 00:58:04,802 - WARNING - Skipping article 'GBS outbreak: Suspected death toll from virus in Maharashtra reaches five | Latest updates' due to invalid image URL: None
+2025-02-03 00:58:04,823 - WARNING - Skipping article ''Feel ashamed to go abroad…': EAM launch a scathing attack on AAP govt ahead of Delhi Polls' due to invalid image URL: None
+2025-02-03 00:58:04,845 - WARNING - Skipping article ''Upper caste' minister for tribal affairs: Suresh Gopi withdraws controversial statement' due to invalid image URL: None
+2025-02-03 00:58:04,866 - WARNING - Skipping article 'Arjun ends 24-game winless streak, could ruin Gukesh’s Tata Masters title hopes; Praggnanandhaa to challenge India No. 1' due to invalid image URL: None
+2025-02-03 00:58:04,888 - WARNING - Skipping article 'Evening Court: Chief Justice Sanjiv Khanna's Plan To Tackle Pending Cases' due to invalid image URL: None
+2025-02-03 00:58:04,909 - WARNING - Skipping article 'Bengal Tigers beat Hyderabad Toofans 4-3 to become Hockey India League champions' due to invalid image URL: None
+2025-02-03 00:58:04,929 - WARNING - Skipping article ''Is this the same ball...?': Virat Kohli reacts as Himanshu Sangwan seeks him out in dressing room after dismissal' due to invalid image URL: None
+2025-02-03 00:58:04,951 - WARNING - Skipping article '"Poetic Injustice": R Ashwin's Blunt Take On Concussion Substitution Controversy' due to invalid image URL: None
+2025-02-03 00:58:04,972 - WARNING - Skipping article 'Dalal Street Week Ahead: RBI policy, Q3 Earnings, PMI, US jobs data among 10 key factors to watch' due to invalid image URL: None
+2025-02-03 00:58:04,994 - WARNING - Skipping article 'Kia Syros compact SUV launches in India: Check prices, features, models and other details' due to invalid image URL: None
+2025-02-03 00:58:05,015 - WARNING - Skipping article 'Sky Force Crosses Rs 100 Crore At Box Office; Veer Pahariya’s Debut Receives Widespread Praise' due to invalid image URL: None
+2025-02-03 00:58:05,036 - WARNING - Skipping article 'WWE Royal Rumble 2025 Match Result: The Queen Charlotte Flair Wins the Women's Rumble Match' due to invalid image URL: None
+2025-02-03 00:58:05,057 - WARNING - Skipping article 'Union Budget: Trading in crypto? There is a bigly tax to pay' due to invalid image URL: None
+2025-02-03 00:58:05,077 - WARNING - Skipping article 'Stock Alert: ONGC, Sun Pharma, IndusInd Bank, Bandhan Bank, Tata Power' due to invalid image URL: None
+2025-02-03 00:58:05,099 - WARNING - Skipping article '5 Reasons Why Mamta Kulkarni Was Expelled From Kinnar Akhara' due to invalid image URL: None
+2025-02-03 00:58:05,120 - WARNING - Skipping article 'Sachin Tendulkar to be Bestowed with Lifetime Achievement Award at BCCI's Naman Awards 2025' due to invalid image URL: None
+2025-02-03 00:58:05,141 - WARNING - Skipping article 'Abhijeet Bhattacharya calls Udit Narayan 'khiladi' amid controversy over kissing fans on lips during performance - Watch - Trending News' due to invalid image URL: None
+2025-02-03 00:58:05,163 - WARNING - Skipping article 'IND vs ENG: Gautam Gambhir wants ‘aggressive’ India in ODIs before Champions Trophy' due to invalid image URL: None
+2025-02-03 00:58:05,163 - INFO - Orchestration completed.
+
+2025-02-03 00:59:02,203 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 00:59:02,204 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 00:59:02,848 - INFO - Finding 'Top stories' section...
+2025-02-03 00:59:02,851 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 00:59:02,851 - INFO - Scraping article headlines...
+2025-02-03 00:59:02,851 - INFO - Folder already exists
+2025-02-03 00:59:02,851 - INFO - Connecting to the database...
+2025-02-03 00:59:02,863 - INFO - Connection is complete...
+2025-02-03 00:59:03,888 - INFO - Skipping duplicate: Union Budget 2025: Tax cut meant to address ‘angst’ and to kickstart a slowing economy, says Finance Secretary
+2025-02-03 00:59:03,899 - INFO - Skipping duplicate: India averts first of Trump’s tariff volleys; China, Mexico & Canada take the initial hit
+2025-02-03 00:59:03,911 - INFO - Skipping duplicate: Indian navigation satellite stuck in transfer orbit after propulsion failure
+2025-02-03 00:59:03,922 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 00:59:03,934 - INFO - Skipping duplicate: Kolkata RG Kar medical student, 20, found hanging inside her room: Reports
+2025-02-03 00:59:03,947 - INFO - Skipping duplicate: Small-cap penny stock AKI India in focus after this Budget proposal. Details here
+2025-02-03 00:59:03,963 - INFO - Skipping duplicate: Kejriwal writes to EC, demands appointment of independent observers in New Delhi constituency
+2025-02-03 00:59:03,985 - INFO - Skipping duplicate: Maha Kumbh 2025: Basant Panchami on February 3; officials prepare for zero-error ahead of 'amrit snan'
+2025-02-03 00:59:04,007 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 00:59:04,028 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 00:59:04,049 - INFO - Skipping duplicate: Was Blackhawk pilot Rebecca Lobach's name kept secret for a reason? Here's what we know
+2025-02-03 00:59:04,070 - INFO - Skipping duplicate: Congress slams government over 'neglect' of MGNREGS
+2025-02-03 00:59:04,091 - INFO - Skipping duplicate: Union Budget 2025: 5 IITs to add 6,500 seats over 5 years; medical colleges to expand intake by 10,000 next year
+2025-02-03 00:59:04,113 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 00:59:04,134 - INFO - Skipping duplicate: Relief for house owners, can claim nil tax on two self-occupied properties now, without conditions
+2025-02-03 00:59:04,155 - INFO - Saving new articles to database...
+2025-02-03 00:59:04,784 - WARNING - Skipping article 'Faizabad MP breaks down over Dalit woman rape-murder in Ayodhya' due to invalid image URL: None
+2025-02-03 00:59:04,806 - WARNING - Skipping article 'Budget 2025: From Polavaram Irrigation Project to water, railways, here's what announced for Andhra Pradesh' due to invalid image URL: None
+2025-02-03 00:59:04,828 - WARNING - Skipping article 'Pakistan-China threat looms, no big bang for defence' due to invalid image URL: None
+2025-02-03 00:59:04,849 - WARNING - Skipping article 'Shun protectionism, India signals to industry with tariff cuts' due to invalid image URL: None
+2025-02-03 00:59:04,871 - WARNING - Skipping article '"200 New Vande Bharat Trains In Next 2-3 Years": Ashwini Vaishnaw After Budget Allocation' due to invalid image URL: None
+2025-02-03 00:59:04,892 - WARNING - Skipping article 'Union Budget 2025 | Government expenditure estimated to cross Rs 50 lakh crore for the first time' due to invalid image URL: None
+2025-02-03 00:59:04,914 - WARNING - Skipping article 'OPINION | Calling the President as 'poor thing' is insulting and inappropriate' due to invalid image URL: None
+2025-02-03 00:59:04,935 - WARNING - Skipping article 'Basant Panchami 2025: 8 yellow-coloured foods to celebrate the festival' due to invalid image URL: None
+2025-02-03 00:59:04,956 - WARNING - Skipping article 'Jammu and Kashmir Weather and AQI Today: Cool start at -28.87 °C, check weather forecast for February 2, 2025' due to invalid image URL: None
+2025-02-03 00:59:04,978 - WARNING - Skipping article '‘Dark day for Karnataka’: Congress slams Centre for neglecting state, Bengaluru in Union Budget 2025' due to invalid image URL: None
+2025-02-03 00:59:04,999 - WARNING - Skipping article 'Dominant India lift second consecutive ICC U19 Women’s T20 World Cup title' due to invalid image URL: None
+2025-02-03 00:59:05,020 - WARNING - Skipping article 'Deva Box Office Collection Day 3: Shahid Kapoor - Rosshan Andrrews’ film sees little growth, earns THIS amount' due to invalid image URL: None
+2025-02-03 00:59:05,041 - WARNING - Skipping article 'GBS outbreak: Suspected death toll from virus in Maharashtra reaches five | Latest updates' due to invalid image URL: None
+2025-02-03 00:59:05,062 - WARNING - Skipping article 'India vs England 5th T20I Highlights: India thrash England by 150 runs to clinch series 4-1' due to invalid image URL: None
+2025-02-03 00:59:05,084 - WARNING - Skipping article ''Feel ashamed to go abroad…': EAM launch a scathing attack on AAP govt ahead of Delhi Polls' due to invalid image URL: None
+2025-02-03 00:59:05,105 - WARNING - Skipping article 'Arjun ends 24-game winless streak, could ruin Gukesh’s Tata Masters title hopes; Praggnanandhaa to challenge India No. 1' due to invalid image URL: None
+2025-02-03 00:59:05,129 - WARNING - Skipping article 'Evening Court: Chief Justice Sanjiv Khanna's Plan To Tackle Pending Cases' due to invalid image URL: None
+2025-02-03 00:59:05,150 - WARNING - Skipping article 'Bengal Tigers beat Hyderabad Toofans 4-3 to become Hockey India League champions' due to invalid image URL: None
+2025-02-03 00:59:05,171 - WARNING - Skipping article ''Is this the same ball...?': Virat Kohli reacts as Himanshu Sangwan seeks him out in dressing room after dismissal' due to invalid image URL: None
+2025-02-03 00:59:05,192 - WARNING - Skipping article ''Did we forget that it was an international match?': R Ashwin questions Harshit Rana's concussion substit' due to invalid image URL: None
+2025-02-03 00:59:05,213 - WARNING - Skipping article 'Dalal Street Week Ahead: RBI policy, Q3 Earnings, PMI, US jobs data among 10 key factors to watch' due to invalid image URL: None
+2025-02-03 00:59:05,234 - WARNING - Skipping article 'Kia Syros compact SUV launches in India: Check prices, features, models and other details' due to invalid image URL: None
+2025-02-03 00:59:05,256 - WARNING - Skipping article 'Sky Force Crosses Rs 100 Crore At Box Office; Veer Pahariya’s Debut Receives Widespread Praise' due to invalid image URL: None
+2025-02-03 00:59:05,277 - WARNING - Skipping article 'Internet digs out old videos of Udit Narayan kissing Alka Yagnik and Shreya Ghoshal after furore over fan kiss' due to invalid image URL: None
+2025-02-03 00:59:05,298 - WARNING - Skipping article 'Xi Weighs Retaliation After Trump Hits China With 10% Tariff' due to invalid image URL: None
+2025-02-03 00:59:05,318 - WARNING - Skipping article 'WWE Royal Rumble 2025 Match Result: The Queen Charlotte Flair Wins the Women's Rumble Match' due to invalid image URL: None
+2025-02-03 00:59:05,341 - WARNING - Skipping article 'Union Budget: Trading in crypto? There is a bigly tax to pay' due to invalid image URL: None
+2025-02-03 00:59:05,363 - WARNING - Skipping article 'Stock Alert: ONGC, Sun Pharma, IndusInd Bank, Bandhan Bank, Tata Power' due to invalid image URL: None
+2025-02-03 00:59:05,386 - WARNING - Skipping article '5 Reasons Why Mamta Kulkarni Was Expelled From Kinnar Akhara' due to invalid image URL: None
+2025-02-03 00:59:05,407 - WARNING - Skipping article 'Sachin Tendulkar to be Bestowed with Lifetime Achievement Award at BCCI's Naman Awards 2025' due to invalid image URL: None
+2025-02-03 00:59:05,428 - WARNING - Skipping article 'IND vs ENG: Gautam Gambhir wants ‘aggressive’ India in ODIs before Champions Trophy' due to invalid image URL: None
+2025-02-03 00:59:05,429 - INFO - Orchestration completed.
+
+2025-02-03 01:56:01,123 - INFO - Starting Google News Scraper Orchestration
+2025-02-03 01:56:01,124 - INFO - Scraping home page from: https://news.google.com/
+2025-02-03 01:56:01,623 - INFO - Finding 'Top stories' section...
+2025-02-03 01:56:01,626 - INFO - Found 'Top Stories' URL: https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen
+2025-02-03 01:56:01,626 - INFO - Scraping article headlines...
+2025-02-03 01:56:01,626 - INFO - Folder already exists
+2025-02-03 01:56:01,626 - INFO - Connecting to the database...
+2025-02-03 01:56:01,645 - INFO - Connection is complete...
+2025-02-03 01:56:02,556 - INFO - Saving new articles to database...
+2025-02-03 01:56:02,739 - INFO - Skipping duplicate: PM Narendra Modi's 'jhaadu ke tinke' dig at Arvind Kejriwal's AAP after 8 MLAs joined BJP
+2025-02-03 01:56:02,763 - INFO - Skipping duplicate: ‘Declare Kerala backward’: Union minister's remark post-Union budget sparks row
+2025-02-03 01:56:02,785 - INFO - Skipping duplicate: Delhi weather sees extremes as mercury fluctuates, IMD issues yellow alert
+2025-02-03 01:56:02,808 - INFO - Skipping duplicate: Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+2025-02-03 01:56:02,830 - INFO - Skipping duplicate: After Bihar budget bonanza, YSRCP's swipe at NDA ally TDP: 'Andhra got zero'
+2025-02-03 01:56:02,851 - INFO - Saving new articles to database...
+2025-02-03 01:56:03,379 - INFO - Skipping duplicate: 28 people on ventilator in Maharashtra as Guillain-Barre Syndrome cases increase to 149, death toll at 5 | Mint
+2025-02-03 01:56:03,404 - INFO - Saving new articles to database...
+2025-02-03 01:56:03,657 - INFO - Skipping duplicate: Tigers deserving champions, Toofans' settled future, foreigners keen to return: HIL reboots in style
+2025-02-03 01:56:03,683 - INFO - Saving new articles to database...
+2025-02-03 01:56:04,161 - INFO - Skipping duplicate: Mamta Kulkarni hits back at Baba Ramdev and Dhirendra Shastri with sharp remarks: 'I suggest he ask his g
+2025-02-03 01:56:04,162 - INFO - Orchestration completed.
+

@@ -15,24 +15,22 @@ def scrape_article_headlines(top_stories_url,base_url):
         soup = BeautifulSoup(response.content, 'html.parser')
 
         # Find article headlines
-        article_tags = soup.find_all('article')
+        article_tags = soup.find_all('article',class_='IBr9hb')
         
         for i,article in enumerate(article_tags):
-            if(i%4==0):
+            if(i%4==0 and article is not None):
                 headline_tag = article.find('a', class_='gPFEn')
-                figure_tag =  headline_tag.find_previous_sibling('figure') or headline_tag.find_next_sibling('figure') or headline_tag.find_parent('figure')
+                image_tag=article.find('img')
                 publish_time=date_time_format(article.find('time')['datetime'])
                 image_link = None
                 article_link=None
-                if figure_tag:
-                    img_tag = figure_tag.find('img')
-                    if img_tag and 'src' in img_tag.attrs:
-                        image_link = base_url + img_tag['src'][1:]
+                if image_tag and 'src' in image_tag.attrs:
+                        image_link = base_url + image_tag['src'][1:]
                 
                 if headline_tag:
                     article_link=base_url.rstrip('/')+headline_tag['href'][1:]
 
-                # Yield headline text, link, and image link
+            # Yield headline text, link, and image link
                 yield headline_tag.text.strip(), article_link, publish_time, image_link
         return None
     except requests.RequestException as e:
