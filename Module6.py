@@ -90,8 +90,11 @@ def main():
                 if is_duplicate(headline, DB_CONFIG):
                     logging.info(f"Skipping duplicate: {headline}")
                 else:
-                    logging.info(f"Saving new articles to database...")
-                    save_to_existing_database(headline,image_url, article_url, article_date, DB_CONFIG,images_folder)
+                    if image_url:
+                        logging.info(f"Saving new articles to database...")
+                        save_to_existing_database(headline,image_url, article_url, article_date, DB_CONFIG,images_folder)
+                    else:
+                        logging.warning(f"Skipping article '{headline}' due to invalid image URL: {image_url}")
 
     except Exception as e:
         logging.error(f"Unexpected error: {str(e)}", exc_info=True)
